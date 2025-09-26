@@ -115,7 +115,7 @@ function App() {
             </mask>
           </defs>
           <image
-            href="./bg.png"
+            href="./hellooo.jpg"
             width="100%"
             height="100%"
             preserveAspectRatio="xMidYMid slice"
